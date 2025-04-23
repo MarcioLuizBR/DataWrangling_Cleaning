@@ -94,4 +94,4 @@ Para gráficos e visualizações, recomenda-se usar Matplotlib.
 
 
 🧑‍💻 Autor
-Desenvolvido por Marcio Luiz - Conecte-se comigo no LinkedIn<https://www.linkedin.com/in/marcioluiz-multicloud/>
+Desenvolvido por Marcio Luiz - Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/marcioluiz-multicloud/)
